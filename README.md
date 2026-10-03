@@ -1,6 +1,7 @@
-# MCM Home for LG webOS
+# MCM Home for LG webOS - Mariana and Sean's house
 
-LG webOS port of the `AndroidTVLauncher` project, built for the
+LG webOS port for Mariana and Sean's house, using the Bandit and Aries profile.
+Built from the `AndroidTVLauncher` project for the
 LG 50UA73006LA running webOS 10.3.1 / firmware 33.31.61.
 
 The app uses the Android project's existing paintings, colour roles, recipe data, and film collection. It discovers the LG TV's installed
