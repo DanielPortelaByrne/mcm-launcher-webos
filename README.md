@@ -75,7 +75,10 @@ Dependencies and references:
 - https://github.com/andrewfraley/magic_mapper
 - https://webostv.developer.lge.com/develop/tools/cli-dev-guide
 
-LG source lives in `webos/` on branch `feature/lg-webos`.
+This repository was split out of [`mcm-launcher`](https://github.com/DanielPortelaByrne/mcm-launcher)
+(branch `feature/lg-webos`, folder `webos/`) with its history kept. The Android household
+versions stay in `mcm-launcher`: the London TCL Google TV on `feature/spatial-motion-experiment`,
+the parents' Fire TV on `feature/parents-home` and Camila & Brian's Fire TV on `feature/camila-brian`.
 
 The initial Your apps order is YouTube, Fire TV Stick (HDMI 1), then
 PlayStation 5 (HDMI 2). The HDMI shortcuts have device icons and switch inputs.
